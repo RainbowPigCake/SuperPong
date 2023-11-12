@@ -2,6 +2,8 @@
 
 A game made during January 2020
 
+Runnable in "SuperPong.exe" in the root folder of this repository
+
 A game similar to 2D pong
 
 # How to Play
